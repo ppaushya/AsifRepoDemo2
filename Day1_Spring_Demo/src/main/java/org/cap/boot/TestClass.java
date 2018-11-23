@@ -26,6 +26,7 @@ public class TestClass {
 		System.out.println("hello how are you!!");
 		System.out.println("hello how are you!!");
 		System.out.println("you are how hello!!");
+<<<<<<< HEAD
 		
 		System.out.println("No but you are ...!");
 		System.out.println("No but you are ...!");
@@ -34,6 +35,23 @@ public class TestClass {
 		System.out.println("Asif");
 		System.out.println("Asif");
 		
+=======
+		System.out.println("Are you in love? Asif");
+		System.out.println("No but you are ...!");
+		System.out.println("No but you are ...!");
+		System.out.println("hello how are you!!");
+
+		System.out.println("Asif");
+
+
+		System.out.println("no i am not");
+
+
+		System.out.println("Poonam");
+		System.out.println("Asif");
+		System.out.println("Asif");
+
+>>>>>>> branch 'master' of https://github.com/ppaushya/AsifRepoDemo2.git
 		System.out.println("Poonam");
 		System.out.println("Poonam pagal hai");
 
