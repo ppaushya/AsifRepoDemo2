@@ -25,6 +25,7 @@ public class TestClass {
 		//context.registerShutdownHook();
 		System.out.println("hello how are you!!");
 		System.out.println("hello how are you!!");
+		System.out.println("you are how hello!!");
 	}
 
 }
