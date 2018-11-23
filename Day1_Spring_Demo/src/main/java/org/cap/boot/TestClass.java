@@ -23,6 +23,7 @@ public class TestClass {
 		
 		context.close();
 		//context.registerShutdownHook();
+		System.out.println("hello how are you!!");
 	}
 
 }
