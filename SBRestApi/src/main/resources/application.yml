@@ -1,0 +1,13 @@
+server:
+  port: 8085
+  servlet:
+    context-path: /pilotapp
+    
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/mydb
+    username: root
+    password: India123
+  jpa:
+    generate-ddl: true
+    show-sql: true  
